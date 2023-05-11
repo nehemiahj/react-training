@@ -1,0 +1,23 @@
+.cardStyle {
+  width: 250px;
+  height: 300px;
+  border: 1px solid rgb(0, 255, 238);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .labelStyle {
+    color: #6b717f;
+    margin: 5px 0;
+  }
+  h1 {
+    color: #6b717f;
+  }
+  .robots {
+    width: 150px;
+    height: 150px;
+  }
+}

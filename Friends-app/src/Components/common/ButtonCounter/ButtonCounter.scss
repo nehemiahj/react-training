@@ -1,0 +1,15 @@
+.ButtonCounterStyle {
+  width: 250px;
+  height: 300px;
+  border: 1px solid rgb(0, 255, 238);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  button{
+    cursor: pointer;
+  }
+}

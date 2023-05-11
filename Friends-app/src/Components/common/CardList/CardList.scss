@@ -1,0 +1,16 @@
+.cardContainerStyle {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: auto auto auto;
+  @media only screen and (max-width: 770px) {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto;
+  }
+  @media only screen and (max-width: 400px) {
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    justify-content: center;
+  }
+}

@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+Friends-app/node_modules
+Counter-app/node_modules
 /.pnp
 .pnp.js
 
@@ -21,3 +23,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+Counter-app/package-lock.json
+Friends-app/package-lock.json
+

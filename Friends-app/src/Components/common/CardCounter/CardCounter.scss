@@ -1,0 +1,14 @@
+.CardCounterStyle {
+  width: 250px;
+  height: 300px;
+  border: 1px solid rgb(255, 0, 68);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+}
