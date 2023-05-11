@@ -4,6 +4,8 @@
 /node_modules
 Friends-app/node_modules
 Counter-app/node_modules
+GraphQL/user-details/node_modules
+PreactJS/user-demo/node_modules
 /.pnp
 .pnp.js
 
@@ -26,4 +28,7 @@ yarn-error.log*
 
 Counter-app/package-lock.json
 Friends-app/package-lock.json
+GraphQL/user-details/package-lock.json
+PreactJS/user-demo/package-lock.json
+
 

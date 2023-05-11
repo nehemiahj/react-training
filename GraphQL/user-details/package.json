@@ -1,0 +1,15 @@
+{
+  "name": "user-details",
+  "version": "1.0.0",
+  "description": "Sample user queries",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Vimit Athawale",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.12.0"
+  }
+}
